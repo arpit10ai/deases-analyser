@@ -1,2 +1,2 @@
-# dummy-project
-dummy
+# deases analyzer-project
+deases analyzer
